@@ -258,7 +258,7 @@ void showallclient() {
 void choose() {
 
 	int number;
-	do {
+	do {fdf
 		do {
 			cleanscreen();
 			printmenue();
